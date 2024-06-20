@@ -172,7 +172,7 @@ section.first>div {
 }
 
 section.first>div :nth-child(1) {
-    font-size: 25px;
+    font-size: 28px;
     font-weight: bolder;
 }
 
